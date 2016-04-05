@@ -23,7 +23,7 @@ except ImportError:
 
 setup(
     name="py2neo-gremlin",
-    version="0.1",
+    version="0.3",
     description="Gremlin support for py2neo.",
     
     author= "Nigel Small, Fabian Yamaguchi",
