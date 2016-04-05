@@ -23,13 +23,13 @@ except ImportError:
 
 setup(
     name="py2neo-gremlin",
-    version="0.3",
+    version="0.4",
     description="Gremlin support for py2neo.",
     
     author= "Nigel Small, Fabian Yamaguchi",
     author_email="nigel@nigelsmall.com, fabs@goesec.de",
     
-    install_requires = ["py2neo == 1.6.3"],
+    install_requires = ["py2neo == 2.0.3"],
 
     packages=[
         "py2neo_gremlin",
